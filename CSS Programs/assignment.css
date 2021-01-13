@@ -1,0 +1,48 @@
+h1{
+font-family: 'Grandstander', cursive;
+font-size:250%;
+border-style:solid;
+border-color:white;
+color:blue;
+margin-left:43%;
+}
+
+table{
+margin-left:10%;
+}
+
+.sp{
+padding:10%;
+}
+
+td{
+margin-left:300%;
+border-style:solid;
+color:green;
+border-color:white;
+padding:100px;
+height:300px;
+}
+
+#one{
+background-color:rgb(3, 144, 252);
+}
+
+#two{
+background-color:rgb(3, 252, 215);
+}
+
+#three{
+background-color:rgb(3, 252, 136);
+}
+
+#four{
+background-color:rgb(123, 252, 3);
+}
+
+#five{
+background-color:rgb(240, 252, 3);
+}
+
+
+
